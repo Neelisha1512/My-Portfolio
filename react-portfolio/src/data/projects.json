@@ -1,0 +1,26 @@
+[
+    {
+      "title": " Online Banking Management System",
+      "imageSrc": "projects/project.png",
+      "description": "The Banking Management System is a comprehensive software solution designed to streamline and enhance the various operations and services offered by a bank.",
+      "skills": ["Python", "TKinter", "database"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Neelisha1512/Banking-Management-System"
+    },
+    {
+      "title": "GreyImage-to-RGB",
+      "imageSrc": "projects/project.png",
+      "description": " This project is an innovative image enhancement tool designed to breathe life into grayscale images by seamlessly adding vibrant colors..",
+      "skills": ["Python", "CV", "Numpy"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Neelisha1512/GreyImage-to-RGB"
+    },
+    {
+      "title": "Tic-Tac-Toe",
+      "imageSrc": "projects/project.png",
+      "description": "The Tic-Tac-Toe Game with AI is a software application that recreates the classic Tic-Tac-Toe game",
+      "skills": ["Python", "TKinter", "AI"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Neelisha1512/Tic-Tac-Toe"
+    }
+  ]
